@@ -81,7 +81,7 @@ Java interface for CVC3.
 
 %prep
 %setup -q
-%patch0
+%patch -P0
 
 # Use the appropriate compiler flags
 sed -e "s|^  LOCAL_CXXFLAGS = -O2|  LOCAL_CXXFLAGS =|" \
