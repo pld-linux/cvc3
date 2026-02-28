@@ -1,7 +1,7 @@
 Summary:	Validity checker of many-sorted first-order formulas with theories
 Name:		cvc3
 Version:	2.4.1
-Release:	1
+Release:	2
 License:	BSD and MIT
 Group:		Applications/Engineering
 URL:		http://www.cs.nyu.edu/acsys/cvc3/
